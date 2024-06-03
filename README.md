@@ -10,7 +10,7 @@ This notebook provides a detailed analysis of meat consumption trends for each c
 - Data preprocessing and cleaning
 - Visualization of meat consumption trends over time for different countries and types of meat
 
-### 2. [Statistical Analysis](path/to/meat_consumption_statistical_analysis_revised.ipynb)
+### 2. [Statistical Analysis](path/to/meat_consumption_statistical_analysis.ipynb)
 
 This notebook provides statistical analysis of meat consumption trends. It includes:
 - Calculations of mean and standard deviation of meat consumption by country and by meat type
